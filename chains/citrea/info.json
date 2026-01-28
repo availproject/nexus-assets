@@ -1,0 +1,8 @@
+{
+  "name": "Citrea Mainnet",
+  "chainId": 4114,
+  "symbol": "cBTC",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://explorer.mainnet.citrea.xyz"
+}
