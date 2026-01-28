@@ -1,0 +1,8 @@
+{
+  "name": "Citrea Testnet",
+  "chainId": 5115,
+  "symbol": "cBTC",
+  "decimals": 18,
+  "type": "testnet",
+  "explorer": "https://explorer.testnet.citrea.xyz"
+}

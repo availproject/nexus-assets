@@ -74,6 +74,12 @@
       "type": "mainnet"
     },
     {
+      "id": "citrea",
+      "chainId": 4114,
+      "name": "Citrea Mainnet",
+      "type": "mainnet"
+    },
+    {
       "id": "ethereum-sepolia",
       "chainId": 11155111,
       "name": "Ethereum Sepolia",
@@ -107,6 +113,12 @@
       "id": "monad-testnet",
       "chainId": 10143,
       "name": "Monad Testnet",
+      "type": "testnet"
+    },
+    {
+      "id": "citrea-testnet",
+      "chainId": 5115,
+      "name": "Citrea Testnet",
       "type": "testnet"
     }
   ]
