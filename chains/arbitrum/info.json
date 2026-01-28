@@ -1,0 +1,8 @@
+{
+  "name": "Arbitrum One",
+  "chainId": 42161,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://arbiscan.io"
+}

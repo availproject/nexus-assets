@@ -1,0 +1,8 @@
+{
+  "name": "BNB Smart Chain",
+  "chainId": 56,
+  "symbol": "BNB",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://bscscan.com"
+}

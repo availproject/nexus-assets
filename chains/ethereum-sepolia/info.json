@@ -1,0 +1,8 @@
+{
+  "name": "Ethereum Sepolia",
+  "chainId": 11155111,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "testnet",
+  "explorer": "https://sepolia.etherscan.io"
+}

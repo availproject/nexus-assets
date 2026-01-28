@@ -1,0 +1,8 @@
+{
+  "name": "Kaia Mainnet",
+  "chainId": 8217,
+  "symbol": "KAIA",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://kaiascan.io"
+}

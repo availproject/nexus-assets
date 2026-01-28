@@ -1,0 +1,8 @@
+{
+  "name": "Arbitrum Sepolia",
+  "chainId": 421614,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "testnet",
+  "explorer": "https://sepolia.arbiscan.io"
+}

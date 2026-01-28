@@ -1,0 +1,8 @@
+{
+  "name": "HyperEVM",
+  "chainId": 999,
+  "symbol": "HYPE",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://hyperevmscan.io"
+}

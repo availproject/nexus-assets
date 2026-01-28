@@ -1,0 +1,8 @@
+{
+  "name": "Sophon",
+  "chainId": 50104,
+  "symbol": "SOPH",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://explorer.sophon.xyz"
+}

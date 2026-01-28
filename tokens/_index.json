@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "tokens": [
+    {
+      "id": "usdc",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "id": "usdt",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "id": "eth",
+      "name": "Ethereum",
+      "symbol": "ETH"
+    },
+    {
+      "id": "weth",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "id": "bnb",
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    {
+      "id": "avax",
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    {
+      "id": "matic",
+      "name": "Polygon",
+      "symbol": "MATIC"
+    },
+    {
+      "id": "pol",
+      "name": "POL",
+      "symbol": "POL"
+    },
+    {
+      "id": "kaia",
+      "name": "Kaia",
+      "symbol": "KAIA"
+    },
+    {
+      "id": "mon",
+      "name": "Monad",
+      "symbol": "MON"
+    },
+    {
+      "id": "hype",
+      "name": "Hyperliquid",
+      "symbol": "HYPE"
+    },
+    {
+      "id": "cbtc",
+      "name": "Citrea BTC",
+      "symbol": "cBTC"
+    },
+    {
+      "id": "megaeth",
+      "name": "MegaETH",
+      "symbol": "METH"
+    },
+    {
+      "id": "soph",
+      "name": "Sophon",
+      "symbol": "SOPH"
+    }
+  ]
+}

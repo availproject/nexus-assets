@@ -1,0 +1,8 @@
+{
+  "name": "OP Sepolia",
+  "chainId": 11155420,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "testnet",
+  "explorer": "https://sepolia-optimism.etherscan.io"
+}

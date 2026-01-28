@@ -1,0 +1,8 @@
+{
+  "name": "Base Sepolia",
+  "chainId": 84532,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "testnet",
+  "explorer": "https://sepolia.basescan.org"
+}

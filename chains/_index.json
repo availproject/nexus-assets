@@ -1,0 +1,113 @@
+{
+  "version": "1.0.0",
+  "chains": [
+    {
+      "id": "ethereum",
+      "chainId": 1,
+      "name": "Ethereum Mainnet",
+      "type": "mainnet"
+    },
+    {
+      "id": "arbitrum",
+      "chainId": 42161,
+      "name": "Arbitrum One",
+      "type": "mainnet"
+    },
+    {
+      "id": "optimism",
+      "chainId": 10,
+      "name": "OP Mainnet",
+      "type": "mainnet"
+    },
+    {
+      "id": "polygon",
+      "chainId": 137,
+      "name": "Polygon PoS",
+      "type": "mainnet"
+    },
+    {
+      "id": "base",
+      "chainId": 8453,
+      "name": "Base",
+      "type": "mainnet"
+    },
+    {
+      "id": "scroll",
+      "chainId": 534352,
+      "name": "Scroll",
+      "type": "mainnet"
+    },
+    {
+      "id": "avalanche",
+      "chainId": 43114,
+      "name": "Avalanche C-Chain",
+      "type": "mainnet"
+    },
+    {
+      "id": "bnb",
+      "chainId": 56,
+      "name": "BNB Smart Chain",
+      "type": "mainnet"
+    },
+    {
+      "id": "monad",
+      "chainId": 143,
+      "name": "Monad",
+      "type": "mainnet"
+    },
+    {
+      "id": "sophon",
+      "chainId": 50104,
+      "name": "Sophon",
+      "type": "mainnet"
+    },
+    {
+      "id": "kaia",
+      "chainId": 8217,
+      "name": "Kaia Mainnet",
+      "type": "mainnet"
+    },
+    {
+      "id": "hyperevm",
+      "chainId": 999,
+      "name": "HyperEVM",
+      "type": "mainnet"
+    },
+    {
+      "id": "ethereum-sepolia",
+      "chainId": 11155111,
+      "name": "Ethereum Sepolia",
+      "type": "testnet"
+    },
+    {
+      "id": "arbitrum-sepolia",
+      "chainId": 421614,
+      "name": "Arbitrum Sepolia",
+      "type": "testnet"
+    },
+    {
+      "id": "optimism-sepolia",
+      "chainId": 11155420,
+      "name": "OP Sepolia",
+      "type": "testnet"
+    },
+    {
+      "id": "polygon-amoy",
+      "chainId": 80002,
+      "name": "Polygon Amoy",
+      "type": "testnet"
+    },
+    {
+      "id": "base-sepolia",
+      "chainId": 84532,
+      "name": "Base Sepolia",
+      "type": "testnet"
+    },
+    {
+      "id": "monad-testnet",
+      "chainId": 10143,
+      "name": "Monad Testnet",
+      "type": "testnet"
+    }
+  ]
+}

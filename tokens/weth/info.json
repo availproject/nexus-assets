@@ -1,0 +1,6 @@
+{
+  "name": "Wrapped Ether",
+  "symbol": "WETH",
+  "website": "https://weth.io",
+  "description": "ERC-20 wrapped version of Ether"
+}

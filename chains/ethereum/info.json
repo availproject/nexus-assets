@@ -1,0 +1,8 @@
+{
+  "name": "Ethereum Mainnet",
+  "chainId": 1,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://etherscan.io"
+}

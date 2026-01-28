@@ -1,0 +1,8 @@
+{
+  "name": "Scroll",
+  "chainId": 534352,
+  "symbol": "ETH",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://scrollscan.com"
+}

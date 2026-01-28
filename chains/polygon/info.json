@@ -1,0 +1,8 @@
+{
+  "name": "Polygon PoS",
+  "chainId": 137,
+  "symbol": "POL",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://polygonscan.com"
+}
