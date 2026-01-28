@@ -10,11 +10,7 @@ assets/
 │   ├── _index.json           # Master list of all chains
 │   └── {chain}/
 │       ├── info.json         # Chain metadata
-│       ├── logo.png          # Chain logo (256x256 PNG)
-│       └── assets/           # Chain-specific tokens (optional)
-│           └── {address}/
-│               ├── info.json
-│               └── logo.png
+│       └── logo.png          # Chain logo (256x256 PNG)
 │
 └── tokens/                    # Cross-chain token definitions
     ├── _index.json           # Master token list
@@ -37,10 +33,10 @@ assets/
 | Scroll | 534352 | ETH |
 | Avalanche | 43114 | AVAX |
 | BNB Smart Chain | 56 | BNB |
-| Monad | TBD | MON |
-| Sophon | TBD | SOPH |
+| Monad | 143 | MON |
+| Sophon | 50104 | SOPH |
 | Kaia | 8217 | KAIA |
-| HyperEVM | TBD | HYPE |
+| HyperEVM | 999 | HYPE |
 
 ### Testnets
 
@@ -51,7 +47,7 @@ assets/
 | OP Sepolia | 11155420 | ETH |
 | Polygon Amoy | 80002 | POL |
 | Base Sepolia | 84532 | ETH |
-| Monad Testnet | TBD | MON |
+| Monad Testnet | 10143 | MON |
 
 ## Universal Tokens
 
@@ -60,6 +56,17 @@ assets/
 | USD Coin | USDC |
 | Tether USD | USDT |
 | Ethereum | ETH |
+| Wrapped Ether | WETH |
+| BNB | BNB |
+| Avalanche | AVAX |
+| Polygon | MATIC |
+| POL | POL |
+| Kaia | KAIA |
+| Monad | MON |
+| Hyperliquid | HYPE |
+| Citrea BTC | cBTC |
+| MegaETH | ETH |
+| Sophon | SOPH |
 
 ## File Formats
 
@@ -84,18 +91,6 @@ assets/
   "symbol": "USDC",
   "website": "https://www.circle.com/usdc",
   "description": "A fully collateralized US dollar stablecoin"
-}
-```
-
-### Per-chain token asset info.json
-
-```json
-{
-  "name": "USD Coin",
-  "symbol": "USDC",
-  "decimals": 6,
-  "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-  "type": "ERC20"
 }
 ```
 
