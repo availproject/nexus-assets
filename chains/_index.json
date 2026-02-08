@@ -80,6 +80,12 @@
       "type": "mainnet"
     },
     {
+      "id": "megaeth",
+      "chainId": 4326,
+      "name": "MegaETH",
+      "type": "mainnet"
+    },
+    {
       "id": "ethereum-sepolia",
       "chainId": 11155111,
       "name": "Ethereum Sepolia",
