@@ -37,6 +37,8 @@ assets/
 | Sophon | 50104 | SOPH |
 | Kaia | 8217 | KAIA |
 | HyperEVM | 999 | HYPE |
+| MegaETH | 4326 | ETH |
+| Citrea | 4114 | cBTC |
 
 ### Testnets
 
@@ -105,13 +107,13 @@ assets/
 ### Get chain logo URL
 
 ```
-https://raw.githubusercontent.com/{owner}/assets/main/chains/{chain}/logo.png
+https://raw.githubusercontent.com/availproject/nexus-assets/main/chains/{chain}/logo.png
 ```
 
 ### Get token logo URL
 
 ```
-https://raw.githubusercontent.com/{owner}/assets/main/tokens/{token}/logo.png
+https://raw.githubusercontent.com/availproject/nexus-assets/main/tokens/{token}/logo.png
 ```
 
 ## License
