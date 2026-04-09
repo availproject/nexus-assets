@@ -67,6 +67,8 @@ assets/
 | Monad | MON |
 | Hyperliquid | HYPE |
 | Citrea BTC | cBTC |
+| Wrapped Citrea Bitcoin | WCBTC |
+| Citrea USD | ctUSD |
 | MegaETH | ETH |
 | Sophon | SOPH |
 

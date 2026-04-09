@@ -62,6 +62,16 @@
       "symbol": "cBTC"
     },
     {
+      "id": "wcbtc",
+      "name": "Wrapped Citrea Bitcoin",
+      "symbol": "WCBTC"
+    },
+    {
+      "id": "ctusd",
+      "name": "Citrea USD",
+      "symbol": "ctUSD"
+    },
+    {
       "id": "megaeth",
       "name": "MegaETH",
       "symbol": "ETH"
