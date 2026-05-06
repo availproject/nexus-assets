@@ -85,6 +85,11 @@
       "id": "usdm",
       "name": "MegaUSD",
       "symbol": "USDM"
+    },
+    {
+      "id": "usdh",
+      "name": "USDH",
+      "symbol": "USDH"
     }
   ]
 }
