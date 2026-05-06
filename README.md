@@ -71,6 +71,8 @@ assets/
 | Citrea USD | ctUSD |
 | MegaETH | ETH |
 | Sophon | SOPH |
+| MegaUSD | USDM |
+| USDH | USDH |
 
 ## File Formats
 
