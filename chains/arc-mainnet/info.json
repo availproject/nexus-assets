@@ -1,0 +1,8 @@
+{
+  "name": "Arc Mainnet",
+  "chainId": 5042,
+  "symbol": "USDC",
+  "decimals": 18,
+  "type": "mainnet",
+  "explorer": "https://explorer.arc.io"
+}
