@@ -39,6 +39,7 @@ assets/
 | HyperEVM | 999 | HYPE |
 | MegaETH | 4326 | ETH |
 | Citrea | 4114 | cBTC |
+| Arc Mainnet | 5042 | USDC |
 
 ### Testnets
 

@@ -86,6 +86,12 @@
       "type": "mainnet"
     },
     {
+      "id": "arc-mainnet",
+      "chainId": 5042,
+      "name": "Arc Mainnet",
+      "type": "mainnet"
+    },
+    {
       "id": "ethereum-sepolia",
       "chainId": 11155111,
       "name": "Ethereum Sepolia",
