@@ -90,6 +90,11 @@
       "id": "usdh",
       "name": "USDH",
       "symbol": "USDH"
+    },
+    {
+      "id": "usdg",
+      "name": "Global Dollar",
+      "symbol": "USDG"
     }
   ]
 }

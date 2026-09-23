@@ -40,6 +40,7 @@ assets/
 | MegaETH | 4326 | ETH |
 | Citrea | 4114 | cBTC |
 | Arc Mainnet | 5042 | USDC |
+| Robinhood Chain | 4663 | ETH |
 
 ### Testnets
 
@@ -74,6 +75,7 @@ assets/
 | Sophon | SOPH |
 | MegaUSD | USDM |
 | USDH | USDH |
+| Global Dollar | USDG |
 
 ## File Formats
 
