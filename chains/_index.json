@@ -92,6 +92,12 @@
       "type": "mainnet"
     },
     {
+      "id": "robinhood",
+      "chainId": 4663,
+      "name": "Robinhood Chain",
+      "type": "mainnet"
+    },
+    {
       "id": "ethereum-sepolia",
       "chainId": 11155111,
       "name": "Ethereum Sepolia",
