@@ -117,6 +117,9 @@ assets/
 https://raw.githubusercontent.com/availproject/nexus-assets/main/chains/{chain}/logo.png
 ```
 
+The Robinhood Chain logo is available at both `chains/robinhood/logo.png` and
+`chains/robinhood_chain/logo.png`. Keep these PNG files identical when updating the logo.
+
 ### Get token logo URL
 
 ```
